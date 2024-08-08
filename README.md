@@ -55,3 +55,4 @@
 - https://github.com/zpyangchina/NUC11BTMi7-hackintosh
 - https://github.com/xiao-chenxi/NUC11BTMi9-hackintosh
 
+## 欢迎加入NUC交流QQ群 群号 857594597
