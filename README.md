@@ -1,5 +1,5 @@
 # NUC11
-## 适用于 NUC11BTMi7, MacOS Sonoma，Ventura，
+## 适用于 NUC11BTMi7, MacOS Sonoma，Ventura的Hackintosh-EFI引导
 # 配置信息
 - 计算卡：NUC11BTMI7 i7-11700B
 - 有线网卡：Intel® 以太网控制器 i225-LM
@@ -8,7 +8,8 @@
 - 显卡：惠普 6600 XT
 - 内存：联想 DDR4 16G 3200MHz*2
 - 硬盘：西数  512GB
-- BIOS版本
+- MacOS版本：14.5
+- BIOS版本：
 ### BIOS 设置
 - Advanced
   - Advanced > `PCIE Resizable BAR Support: Disabled`
