@@ -8,8 +8,8 @@
 - 显卡：惠普 6600 XT
 - 内存：联想 DDR4 16G 3200MHz*2
 - 硬盘：西数  512GB
-- MacOS版本：14.5
-- BIOS版本：
+- MacOS版本：Sonoma 14.5
+  
 ## BIOS 设置
 - Advanced
   - Advanced > `PCIE Resizable BAR Support: Disabled`
