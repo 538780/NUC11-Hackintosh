@@ -33,11 +33,12 @@
 - ✅ 无雷电硬件测试
 - ✅ 睡眠及唤醒正常
 
-# 2024 年 8 月 8 日
+## 更改日志
 
-- 首次提交
-- 更新`OpenCore` `v1.0.1`
-- 支持`Sonama`安装和使用
+- 2024 年 8 月 8 日
+  - 首次提交
+  - 更新`OpenCore` `v1.0.1`
+  - 支持`Sonama`安装和使用
 
 参考EFI链接：
 - https://github.com/xiao-chenxi/NUC11BTMi9-hackintosh
