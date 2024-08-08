@@ -22,16 +22,16 @@
   - boot Priority > `Fast Boot: Unchecked`
  
   ## 硬件驱动情况
--  CPU正常睿频
--  11代CPU核心显卡无法驱动
--  独立显卡HP 6600xt正常
--  USB接口已经定制，所有USB接口均可正常使用
--  声卡驱动正常
--  自带无线网卡WIFI、蓝牙正常
--  有线网卡驱动正常
--  读卡器无SD卡测试，但读卡器走的USB3.2hub，理论上可以使用
--  无雷电硬件测试
--  睡眠及唤醒正常
+✅ CPU正常睿频
+❌ 11代CPU核心显卡无法驱动
+✅ 独立显卡HP 6600xt正常
+✅ USB接口已经定制，所有USB接口均可正常使用
+✅ 声卡驱动正常
+✅ 自带无线网卡WIFI、蓝牙正常
+✅ 有线网卡驱动正常
+✅ 读卡器无SD卡测试，但读卡器走的USB3.2hub，理论上可以使用
+✅ 无雷电硬件测试
+✅ 睡眠及唤醒正常
 
 参考EFI链接：
 - https://github.com/xiao-chenxi/NUC11BTMi9-hackintosh
