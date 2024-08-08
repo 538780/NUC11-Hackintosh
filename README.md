@@ -36,7 +36,7 @@
 ##
 ### RX6600XT 啸叫
  ✅EFI集成RX6600XT定制降频处理，如有问题，可自行使用OCAT移除PP_PhmSoftPowerPlayTable
- > OCAT-DP-PCILists-下方减号删除
+ > OCAT工具-->DP-->PCILists-->下方减号删除
 
 
 ## 更改日志
