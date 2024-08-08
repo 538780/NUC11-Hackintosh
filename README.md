@@ -46,6 +46,9 @@
   - 首次提交
   - 更新`OpenCore` `v1.0.1`
   - 支持`Sonama`安装和使用
+
+## 截图信息
+
 ## 参考工具
 - OCAT: https://github.com/ic005k/OCAuxiliaryTools
 - WiFi网卡：https://github.com/OpenIntelWireless/itlwm
