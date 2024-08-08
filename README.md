@@ -41,6 +41,8 @@
   - 支持`Sonama`安装和使用
 ## 参考工具
 OCAT: https://github.com/ic005k/OCAuxiliaryTools
+WiFi网卡：https://github.com/OpenIntelWireless/itlwm
+蓝牙：https://github.com/OpenIntelWireless/IntelBluetoothFirmware
 
 
 ### 参考EFI链接：
