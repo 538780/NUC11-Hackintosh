@@ -83,6 +83,8 @@
 - WiFi网卡：https://github.com/OpenIntelWireless/itlwm
 - 蓝牙：https://github.com/OpenIntelWireless/IntelBluetoothFirmware
 
+## 工具软件备份库
+QQ群：933908885
 
 ### 参考EFI链接：
 
