@@ -33,5 +33,5 @@
 -  睡眠及唤醒正常
 
 参考EFI链接：
-https://github.com/xiao-chenxi/NUC11BTMi9-hackintosh
-https://github.com/zpyangchina/NUC11BTMi7-hackintosh
+- https://github.com/xiao-chenxi/NUC11BTMi9-hackintosh
+- https://github.com/zpyangchina/NUC11BTMi7-hackintosh
