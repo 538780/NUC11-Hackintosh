@@ -45,13 +45,14 @@
 
 ## 进阶方法
 
-### RX6600XT 啸叫
+### RX6600XT啸叫处理
 
  ✅RX6600XT降频处理，使用OCAT添加PP_PhmSoftPowerPlayTable可缓解
 
 参考：https://zhuanlan.zhihu.com/p/629023610
 
-### Mac&Win双系统下蓝牙设备共用，无需重复配对
+### 双系统蓝牙配对优化
+ ✅Mac&Win双系统下蓝牙设备共用，无需重复配对
 参考：https://post.smzdm.com/p/a4p59xe8/
 
 ## 更改日志
