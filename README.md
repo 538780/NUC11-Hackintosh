@@ -84,6 +84,8 @@
 - WiFi网卡：https://github.com/OpenIntelWireless/itlwm
 - 蓝牙：https://github.com/OpenIntelWireless/IntelBluetoothFirmware
 - BIOS下载：https://www.asus.com.cn/displays-desktops/nucs/nuc-elements/nuc-11-extreme-compute-element/helpdesk_bios/?model2Name=NUC-11-Extreme-Compute-Element
+- MacOS镜像：https://hackintosh.club/d/10000080
+- 镜像烧录工具：Transmac
 
 ## 工具软件备份库
 QQ群：933908885
