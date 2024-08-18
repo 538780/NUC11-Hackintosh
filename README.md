@@ -12,6 +12,7 @@
 - 内存：联想 DDR4 16G 3200MHz*2
 - 硬盘：西数WDC SN730  512GB
 - MacOS版本：Sonoma 14.5
+- BIOS版本：0071 
 
 ## BIOS 设置
 
@@ -82,6 +83,7 @@
 - OCAT: https://github.com/ic005k/OCAuxiliaryTools
 - WiFi网卡：https://github.com/OpenIntelWireless/itlwm
 - 蓝牙：https://github.com/OpenIntelWireless/IntelBluetoothFirmware
+- BIOS下载：https://www.asus.com.cn/displays-desktops/nucs/nuc-elements/nuc-11-extreme-compute-element/helpdesk_bios/?model2Name=NUC-11-Extreme-Compute-Element
 
 ## 工具软件备份库
 QQ群：933908885
