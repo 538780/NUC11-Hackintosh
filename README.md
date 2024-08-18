@@ -1,4 +1,4 @@
-# NUC11
+# NUC11-个人自用持续更新
 
 ## 适用于 NUC11BTMi7, MacOS Sonoma，Ventura的Hackintosh-EFI引导
 
